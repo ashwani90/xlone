@@ -1,0 +1,16 @@
+{
+  "name": "netflix-xlone",
+  "version": "1.0.0",
+  "description": "Netflix clone app",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashwani",
+  "license": "ISC",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "nodemon": "^2.0.12"
+  }
+}
